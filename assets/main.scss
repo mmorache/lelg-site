@@ -1,0 +1,25 @@
+---
+---
+
+@import "minima";
+
+/* Custom overrides */
+html, body {
+  background-color: #FDF8F5;
+}
+
+.site-header,
+.site-footer,
+.page-content,
+.wrapper {
+  background-color: #FDF8F5;
+}
+
+/* Hero image styling */
+.hero-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+}
+
