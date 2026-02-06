@@ -3,3 +3,7 @@ description: Pop punk demos and updates from Loose Ends, Long Goodbyes.
 theme: minima
 plugins:
   - jekyll-sitemap
+header_pages:
+  - about.md
+  - music.md
+  - contact.md
