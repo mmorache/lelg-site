@@ -8,4 +8,4 @@ nav_exclude: true
 <img src="/assets/og-image-hero.jpg" alt="Loose Ends, Long Goodbyes" class="hero-img">
 
 
-Pop-punk demos and updates. Coming soon.
+Demos and updates coming soon.
