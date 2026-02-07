@@ -36,11 +36,12 @@ html, body {
   background-color: #FDF8F5;
 }
 
-/* Hero image styling */
 .hero-img {
+  display: block;
+  margin: 0 auto 1.5rem auto; /* centers + keeps bottom spacing */
   max-width: 100%;
   height: auto;
   border-radius: 8px;
-  margin-bottom: 1.5rem;
 }
+
 
