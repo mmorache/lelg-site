@@ -18,9 +18,10 @@
   }
 }
 
-/* Hide the big H1 on the homepage (keep header title) */
-.home h1 {
+/* Hide the big homepage title (it's redundant with header) */
+.home .page-heading {
   display: none;
+  padding-top: 1rem;
 }
 
 /* Custom overrides */
