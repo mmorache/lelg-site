@@ -18,6 +18,10 @@
   }
 }
 
+/* Hide the big H1 on the homepage (keep header title) */
+.home h1 {
+  display: none;
+}
 
 /* Custom overrides */
 html, body {
