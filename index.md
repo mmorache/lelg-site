@@ -5,4 +5,4 @@ description: Pop punk project by Mathias M. Early 2000s energy, modern productio
 nav_exclude: true
 ---
 
-<img src="/assets/og-image-hero.jpg" alt="Loose Ends, Long Goodbyes" class="hero-img">
+<img src="/assets/og-image.jpg" alt="Loose Ends, Long Goodbyes" class="hero-img">
