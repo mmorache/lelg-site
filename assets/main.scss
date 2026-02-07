@@ -6,6 +6,10 @@
 /* Widen layout (Minima defaults are very narrow) */
 .wrapper {
   max-width: 1100px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 24px;
+  padding-right: 24px;
 }
 
 @media screen and (min-width: 1400px) {
