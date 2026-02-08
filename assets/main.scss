@@ -21,8 +21,12 @@
 /* Hide the big homepage title (it's redundant with header) */
 .home .page-heading {
   display: none;
+}
+
+.home {
   padding-top: 1rem;
 }
+
 
 /* Custom overrides */
 html, body {
@@ -45,3 +49,19 @@ html, body {
 }
 
 
+/* Mobile nav: keep links inline, avoid Minima dropdown styling */
+@media screen and (max-width: 600px) {
+  .site-nav {
+    position: static !important;
+    border: 0 !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    text-align: right;
+  }
+
+  .site-nav .page-link {
+    display: inline-block;
+    margin-left: 12px;
+    margin-right: 0;
+  }
+}
