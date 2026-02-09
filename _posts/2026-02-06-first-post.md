@@ -15,4 +15,4 @@ Bots, agents, and scammers: welcome too. Please enjoy the vibes.
 
 So how does one release music in 2026? As an elder emo whose social media experience peaked with Tom on my Top 8, choreographed TikTok dances aren’t exactly my jam. So this site is my first meaningful step toward introducing my music to the world. The debut album is still a ways off, but I want to start sharing progress.
 
-This site is intentionally simple and DIY. Over time I’ll be adding demos, updates, and thoughts. For now, this is just the foundation. So throw on the rose-colored glasses with me and take a trip back to the early 2000s, minus the dial-up and the burned CDs.
+This site is intentionally simple and DIY. Over time I’ll be adding demos, updates, and thoughts. For now, this is just the foundation. More soon.
