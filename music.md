@@ -4,6 +4,8 @@ title: Music
 description: Demos, recordings, and upcoming releases from Loose Ends, Long Goodbyes.
 permalink: /music/
 ---
+### Demos
+Demos and works in progress on [SoundCloud](https://soundcloud.com/loose-ends-long-goodbyes).
 
 #### Holy Ghosted (Instrumental Demo)
 
