@@ -1,17 +1,7 @@
-<footer class="site-footer h-card">
+<footer class="site-footer">
   <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <p class="footer-text">
-          © {{ "now" | date: "%Y" }} {{ site.title }}
-        </p>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <p class="footer-text">
-          {{ site.description }}
-        </p>
-      </div>
-    </div>
+    <p class="footer-text">
+      © {{ "now" | date: "%Y" }} {{ site.title }} · {{ site.description }}
+    </p>
   </div>
 </footer>
