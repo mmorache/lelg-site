@@ -5,6 +5,7 @@ plugins:
   - jekyll-sitemap
 header_pages:
   - about.md
+  - blog.md
   - music.md
   - contact.md
 url: "https://looseendslonggoodbyes.com"
