@@ -5,4 +5,4 @@ description: Contact information and booking inquiries for Loose Ends, Long Good
 permalink: /contact/
 ---
 
-Email: **contact@looseendslonggoodbyes.com**
+Email: [contact@looseendslonggoodbyes.com](mailto:contact@looseendslonggoodbyes.com?subject=Loose%20Ends%2C%20Long%20Goodbyes%20Contact)
