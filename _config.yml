@@ -9,3 +9,4 @@ header_pages:
   - music.md
   - contact.md
 url: "https://looseendslonggoodbyes.com"
+baseurl: ""
