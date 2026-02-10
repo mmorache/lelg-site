@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Loose Ends, Long Goodbyes
-description: Pop punk project by Mathias M. Early 2000s energy, modern production
+description: Pop-Punk project by Mathias. Early 2000s energy, modern production
 nav_exclude: true
 ---
 
