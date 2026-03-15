@@ -17,7 +17,7 @@ Blows through the room I shut you in
 No longer a refuge this place  
 smells like fear and bleach  
 
-*Pre-Chorus 1*
+*Pre-Chorus 1*  
 I tell myself it matters  
 But what matters in the end  
 
