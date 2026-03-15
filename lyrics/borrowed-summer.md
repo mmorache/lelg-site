@@ -61,7 +61,7 @@ But I won’t forget the legend of the Mazdalac
 Ooh Mazdalac  
 Ooh Rolling back  
 Ooh Idaho night  
-Campfires and Keystone Light  
+Campfire and Keystone Light  
 
 ### Song Notes
 **Key:** Eb Major  
