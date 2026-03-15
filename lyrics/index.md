@@ -10,3 +10,4 @@ A small archive of lyrics and song notes.
 ## Songs
 
 - [Borrowed Summer](/lyrics/borrowed-summer/)
+- [Cetus](/lyrics/cetus/)
