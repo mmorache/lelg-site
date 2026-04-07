@@ -7,8 +7,6 @@ description: Lyrics and song notes for Alpine Divorce by Loose Ends, Long Goodby
 
 ## Lyrics
 
-Alpine Divorce
-
 *Verse 1*  
 She makes milkshakes at the local grocer  
 GI comes by, leans a little closer  
