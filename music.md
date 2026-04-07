@@ -6,7 +6,7 @@ permalink: /music/
 ---
 ### Demos
 
-Early demos from the upcoming album.
+Demos from the upcoming album.
 
 <iframe
   width="100%"
@@ -17,5 +17,4 @@ Early demos from the upcoming album.
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/2206835768&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false">
 </iframe>
 
-Listen on SoundCloud:  
-https://soundcloud.com/loose-ends-long-goodbyes
+[Listen on SoundCloud](https://soundcloud.com/loose-ends-long-goodbyes)
