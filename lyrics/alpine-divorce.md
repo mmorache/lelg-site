@@ -69,7 +69,8 @@ Tape deck clicks and engine ticks
 Might say grace but we don’t mean it  
 Memories been a long time coming  
 Most days I feel nothing  
-I find comfort in apathyBut sometimes it rushes back to me  
+I find comfort in apathy  
+But sometimes it rushes back to me  
 
 *Final Chorus*  
 Ash on the breeze off West Mountain  
