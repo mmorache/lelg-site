@@ -9,5 +9,6 @@ A small archive of lyrics and song notes.
 
 ## Songs
 
+- [Alpine Divorce](/lyrics/alpine-divorce/)
 - [Borrowed Summer](/lyrics/borrowed-summer/)
 - [Cetus](/lyrics/cetus/)
