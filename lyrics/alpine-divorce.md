@@ -13,10 +13,10 @@ Alpine Divorce
 She makes milkshakes at the local grocer  
 GI comes by, leans a little closer  
 In the Model T, out shooting at gophers  
-Says I do after thinking it over  
+Says "I do" after thinking it over  
 
-He’s back from the war just stopped Hitler  
-Swap dress blues no more howitzer  
+He’s back from the war, just stopped Hitler  
+Swap dress blues, no more howitzer  
 Say some vows by the Payette river  
 Skip the reception, already not with her  
 
