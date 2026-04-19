@@ -14,14 +14,13 @@ https://looseendslonggoodbyes.com
 - No backend / database
 
 ## Purpose
-This site serves as the online home for the Loose Ends, Long Goodbyes music project:
+This site is the online home for the Loose Ends, Long Goodbyes pop-punk project:
 - music / demos
 - updates
 - contact information
 - general presence
 
 ## Development
-Local development is optional. Most changes can be made directly in Markdown and pushed.
 
 Basic workflow:
 
