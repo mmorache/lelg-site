@@ -7,6 +7,6 @@ permalink: /about/
 
 **Loose Ends, Long Goodbyes** is a pop-punk project inspired by the late ’90s and early-2000s pop-punk I grew up on.
 
-My hometown didn’t (and still doesn’t) have a stoplight. In driver's ed, we drove fifty miles to the next town over just to practice. The nearest place you could find music that *wasn’t* country was hours away. Discovering punk music blew my mind. You traded recommendations, burned CDs, and shared bands like maps to a hidden world.
+My Idaho hometown didn’t (and still doesn’t) have a stoplight. In driver's ed, we drove fifty miles to the next town over just to practice. The nearest place you could find music that *wasn’t* country was hours away. Discovering punk music blew my mind. You traded recommendations, burned CDs, and shared bands like maps to a hidden world.
 
 Life since then has taken me a lot of places. My tastes have widened, but my heart never left the scene. This project is my way to recapture what made that music so special: the energy, the honesty, and the sense that you’re not the only one feeling what you’re feeling.
