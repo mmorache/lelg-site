@@ -32,7 +32,7 @@ Every ending is the same
 *Chorus 1*  
 Another future they sold  
 Just do what you’re told  
-Why the fuck am I here  
+Why the fuck am I here?  
 This storyline blows  
 
 Years taking their toll  
