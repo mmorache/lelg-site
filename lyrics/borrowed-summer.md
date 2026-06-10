@@ -6,11 +6,11 @@ description: Lyrics and song notes for Borrowed Summer by Loose Ends, Long Goodb
 ---
 
 ## Lyrics
-*Verse 1*  
+*Verse 1*
 Adam had a car we called the Mazdalac  
 Sunburnt paint, stickers on the hatch  
 CD wallet with our favorite bands  
-Friends pile in, no map, no plans  
+Friends pile in, no place, no plans  
 
 *Prechorus 1*  
 Fuel gauge lying but we didn't care  
