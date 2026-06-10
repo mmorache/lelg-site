@@ -36,7 +36,8 @@ Why the fuck am I here
 This storyline blows  
 
 Years taking their toll  
-Too young to die old  Mistakes multiply  
+Too young to die old  
+Mistakes multiply  
 Regrets returning tenfold  
 
 Give samsara a spin  
@@ -51,7 +52,7 @@ Too young to die old
 
 *Verse 2*  
 Twenty-something in the Great Recession  
-Forty-pound boxes and a 4AM session  
+Forty-pound boxes and a four AM session  
 Down the highway at five below  
 Follow your dreams got me here, you know  
 
@@ -68,7 +69,8 @@ Left of my peace of mind
 
 Lock the sorrow deep inside  
 Don’t like answers that I find  
-Dharma wheel runs over my peace of mind  
+Dharma wheel runs over my  
+peace of mind  
 
 *Chorus 2*  
 Another future they sold  
