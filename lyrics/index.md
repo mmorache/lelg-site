@@ -12,3 +12,4 @@ A small archive of lyrics and song notes.
 - [Alpine Divorce](/lyrics/alpine-divorce/)
 - [Borrowed Summer](/lyrics/borrowed-summer/)
 - [Cetus](/lyrics/cetus/)
+- [Samsara Coffee](/lyrics/samsara-coffee/)
