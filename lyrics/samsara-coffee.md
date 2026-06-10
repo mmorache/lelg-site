@@ -36,8 +36,7 @@ Why the fuck am I here
 This storyline blows
 
 Years taking their toll 
-Too young to die old  
-Mistakes multiply  
+Too young to die old  Mistakes multiply  
 Regrets returning tenfold  
 
 Give samsara a spin
