@@ -54,7 +54,7 @@ Too young to die old
 Twenty-something in the Great Recession  
 Forty-pound boxes and a four AM session  
 Down the highway at five below  
-Follow your dreams got me here, you know  
+"Follow your dreams" got me here, you know  
 
 Sunrise on the distant peaks  
 Close but always out of reach  
