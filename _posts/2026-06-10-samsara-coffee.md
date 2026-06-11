@@ -11,7 +11,7 @@ Sometimes it feels like life is an endless cycle of striving, reinventing yourse
 Writing [songs](https://soundcloud.com/loose-ends-long-goodbyes/samsara-coffee-demo-06-07-2026) helps me process things that don't always make sense rationally. As for whether the next life will suck too, hopefully we'll never find out.  
  
 <iframe 
-    width="100%" 
+    width="600" 
     height="300" 
     scrolling="no" 
     frameborder="no" 
