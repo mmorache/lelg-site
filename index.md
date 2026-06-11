@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Loose Ends, Long Goodbyes
-description: Pop-Punk from Idaho. Early 2000s energy, modern production
+description: Pop-Punk from Boise, Idaho.
 nav_exclude: true
 ---
 
