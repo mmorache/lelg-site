@@ -53,7 +53,7 @@ Too young to die old
 *Verse 2*  
 Twenty-something in the Great Recession  
 Forty-pound boxes and a four AM session  
-Down the highway at five below  
+Down I-eighty-four through the ice and snow  
 "Follow your dreams" got me here, you know  
 
 Sunrise on the distant peaks  

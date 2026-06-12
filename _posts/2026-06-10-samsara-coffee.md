@@ -4,7 +4,7 @@ title: "Samsara Coffee"
 description: "Existential anxiety"
 
 ---
-Objectively, my life is pretty good. I have a stable career, a home, feisty cats, friends, family, and more opportunities than a lot of people ever get. But that doesn't make anxiety disappear.  
+Objectively, my life is pretty good. I have a stable career, a comfortable home, feisty cats, wonderful people, and more opportunities than many ever get. But that doesn't make anxiety disappear.  
 
 Sometimes it feels like life is an endless cycle of striving, reinventing yourself, and then doing it all over again. You can make all the right moves and still lose. No amount of planning or preparation ever feels like enough, and all you can do is stay one step ahead of ruin while building a future worth living in. I keep waiting to reach cruising altitude, but it never quite arrives.  
 
