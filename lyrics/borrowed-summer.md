@@ -36,7 +36,7 @@ Pay no attention to the check engine light
 
 *Chorus 2*  
 Mazdalac rolling through the Idaho night  
-Engine humming and the future was bright  
+Engine humming and the future looked bright  
 Kings of nowhere, turn it up loud  
 Borrowed summer, chase the sound  
 Everything changes, nothing lasts  
