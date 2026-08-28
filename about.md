@@ -7,7 +7,7 @@ permalink: /about/
 
 **Loose Ends, Long Goodbyes** is inspired by the late ’90s and early-2000s pop-punk I grew up on.  
 
-![studio helper](/assets/images/portrait-eyes.jpg){:.about-photo}
+![studio helper](/assets/images/portrait_eyes.jpg){:.about-photo}
 
 My Idaho hometown didn’t (and still doesn’t) have a stoplight. In driver's ed, we drove fifty miles to the next town over just to practice. The nearest place you could find music that wasn’t country was hours away. Discovering punk music blew my mind. You shared bands and burned CDs like maps to buried treasure.
 
